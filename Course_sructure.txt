@@ -1,0 +1,18 @@
+Course - content
+
+a) Intro to linux and bash scripts for automation
+b) Git for version control (Basic)
+c) Intro to Python (Python interpretor, Data types, objects etc)
+d) Python datastructures (List, Dict, Tuples, Sets)
+e) Understanding standard libraries of Python (String, re, textwrap, decimal, shutil, os, sys, argparse)
+f) Object oriented programming (Classes, Subclasses, modules, abstract class)
+g) Scipy + Numpy for numerical operations
+i) Writing 'make' files
+j) Test driven development
+k) Development tool
+
+Each module has
+	multiple quizzes 
+	Live lectures
+	Ipython Notebook of examples
+	Other resources
